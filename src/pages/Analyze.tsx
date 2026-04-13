@@ -507,7 +507,7 @@ export default function Analyze() {
               )}
             </Button>
             {loading && (
-              <p className="text-white/35 text-xs animate-pulse">Analysing with Gemini AI — this takes 5–10 seconds</p>
+              <p className="text-white/35 text-xs animate-pulse">Analysing ...this takes 5–10 seconds</p>
             )}
           </div>
         </motion.div>
