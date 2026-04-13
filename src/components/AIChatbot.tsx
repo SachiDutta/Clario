@@ -4,7 +4,7 @@ import { MessageSquare, Send, X, RotateCcw } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { ALL_POLICIES, SCENARIOS, COVERAGE_CATEGORIES } from "@/data/insurance";
 
-const SYSTEM_PROMPT = `You are PolicyPal AI, a helpful insurance assistant.
+const SYSTEM_PROMPT = `You are Clario AI, a helpful insurance assistant.
 Data: ${JSON.stringify({ ALL_POLICIES, SCENARIOS, COVERAGE_CATEGORIES })}
 
 RULES:
@@ -17,7 +17,7 @@ RULES:
 type Message = { role: "user" | "bot"; text: string };
 
 const INITIAL_MESSAGES: Message[] = [
-  { role: "bot", text: "Hi! I'm PolicyPal AI. Ask me about insurance coverage or claim estimates." },
+  { role: "bot", text: "Hi! I'm Clario AI. Ask me about insurance coverage or claim estimates." },
 ];
 
 const QUICK_QUESTIONS = [
@@ -131,7 +131,7 @@ export default function AIChatbot() {
             <div className="p-4 border-b border-white/10 flex justify-between items-center bg-white/5 backdrop-blur-md">
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 bg-primary rounded-full animate-pulse shadow-[0_0_10px_var(--primary)]" />
-                <span className="font-bold text-sm text-foreground">PolicyPal AI</span>
+                <span className="font-bold text-sm text-foreground">Clario AI</span>
               </div>
               <button 
                 onClick={() => setMessages(INITIAL_MESSAGES)} 
