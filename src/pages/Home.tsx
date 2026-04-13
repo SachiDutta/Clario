@@ -35,7 +35,7 @@ const FEATURES = [
 ];
 
 const STATS = [
-  { icon: Users, value: "10,000+", label: "Indians trust PolicyPal AI" },
+  { icon: Users, value: "10,000+", label: "Indians trust Clario" },
   { icon: Shield, value: "200+", label: "Policies in our database" },
   { icon: Star, value: "98%", label: "Customer satisfaction score" },
   { icon: Globe, value: "₹500Cr+", label: "Claims analysed" },
