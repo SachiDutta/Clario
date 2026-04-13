@@ -21,10 +21,10 @@ const INITIAL_MESSAGES: Message[] = [
 ];
 
 const QUICK_QUESTIONS = [
-  "Which plan has the best claim ratio?",
+  
   "Is maternity covered?",
   "How does the claim simulator work?",
-  "Best plan for a family of 4?",
+  "Explain Dengue",
 ];
 
 export default function AIChatbot() {
