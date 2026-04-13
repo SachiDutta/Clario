@@ -168,24 +168,28 @@ link
 ## 📷 Screenshots
 
 ### Homepage
-```markdown
+<img width="2546" height="1260" alt="image" src="https://github.com/user-attachments/assets/d36932b9-c633-4200-87b7-ea38b8ceb00c" />
 
-```
 
-### Analyzer
-```markdown
+### Analyser
+<img width="2536" height="1269" alt="image" src="https://github.com/user-attachments/assets/032f2610-0b8d-4cd3-80db-dcd0f7f16d03" />
+<img width="2543" height="1255" alt="image" src="https://github.com/user-attachments/assets/5c9f5494-938f-4912-808a-41dc1268f3dc" />
 
-```
+
+
 
 ###  Comparison
-```markdown
+<img width="2536" height="1265" alt="image" src="https://github.com/user-attachments/assets/816f0af3-bf89-4737-b915-601a659b9f60" />
+<img width="2523" height="1140" alt="image" src="https://github.com/user-attachments/assets/c9733df4-7f68-4f3f-91c3-9efffcaa382b" />
 
-```
+
 
 ###  Simulator
-```markdown
+<img width="2533" height="1273" alt="image" src="https://github.com/user-attachments/assets/97bca560-422e-4387-826c-44fa0685cd62" />
+<img width="2524" height="1254" alt="image" src="https://github.com/user-attachments/assets/b28c079c-9e46-4da8-b26a-ffb83acce915" />
 
-```
+### CLAIRO AI  chatbot
+
 
 ---
 
