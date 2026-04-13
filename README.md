@@ -188,7 +188,10 @@ link
 <img width="2533" height="1273" alt="image" src="https://github.com/user-attachments/assets/97bca560-422e-4387-826c-44fa0685cd62" />
 <img width="2524" height="1254" alt="image" src="https://github.com/user-attachments/assets/b28c079c-9e46-4da8-b26a-ffb83acce915" />
 
-### CLAIRO AI  chatbot
+
+### CLAIRO AI chatbot
+<img width="860" height="1238" alt="image" src="https://github.com/user-attachments/assets/9a868db5-eb85-4083-a6ba-2099c5457aab" />
+
 
 
 ---
