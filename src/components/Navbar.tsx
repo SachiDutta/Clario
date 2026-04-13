@@ -5,8 +5,8 @@ import { Menu, X, User, LogIn, UserPlus, LayoutDashboard, Trash2, Eye, ChevronDo
 
 const NAV_LINKS = [
   { href: "/", label: "Home" },
-  { href: "/analyze", label: "Analyze" },
-  { href: "/simulator", label: "Simulator" },
+  { href: "/analyze", label: "Analyse" },
+  { href: "/simulator", label: "Simulate" },
   { href: "/compare", label: "Compare" },
 ];
 
