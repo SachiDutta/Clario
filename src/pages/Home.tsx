@@ -11,10 +11,10 @@ const FEATURES = [
   {
     icon: Shield,
     color: "#08d9d6",
-    title: "Policy Analyzer",
+    title: "Policy Analyser",
     desc: "Upload your insurance PDF or select your provider and instantly get a full breakdown of what's covered, excluded, and waiting periods.",
     href: "/analyze",
-    cta: "Analyze My Policy",
+    cta: "Analyse My Policy",
   },
   {
     icon: TrendingUp,
