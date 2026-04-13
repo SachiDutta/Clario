@@ -159,9 +159,10 @@ node index.js
 
 This project is deployed at **Vercel**
 
-```
-link
-```
+
+clario-project.vercel.app
+
+
 
 ---
 
@@ -190,7 +191,7 @@ link
 
 
 ### CLAIRO AI chatbot
-<img width="860" height="1238" alt="image" src="https://github.com/user-attachments/assets/9a868db5-eb85-4083-a6ba-2099c5457aab" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/9a868db5-eb85-4083-a6ba-2099c5457aab" />
 
 
 
